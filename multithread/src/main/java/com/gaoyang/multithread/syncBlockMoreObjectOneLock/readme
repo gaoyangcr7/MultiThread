@@ -1,0 +1,3 @@
+P100 2.2.9 静态同步Synchronized方法于Synchronized（class）代码块
+
+同步Synchronized（class）代码块的作用其实和Synchronized static方法的作用一样

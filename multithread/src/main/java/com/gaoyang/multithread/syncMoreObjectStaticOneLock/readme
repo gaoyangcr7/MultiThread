@@ -1,0 +1,4 @@
+P97 2.2.9  静态同步Synchronized方法于Synchronized（class）代码块
+
+Synchronized关键字加到static静态方法上是给class类上锁（Class锁可以对所有对象实例起作用),
+而class锁可以对类的所有对象实例起作用
